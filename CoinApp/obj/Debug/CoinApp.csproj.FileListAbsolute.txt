@@ -1,0 +1,16 @@
+D:\CodeC\CoinApp\CoinApp\bin\Debug\CoinApp.exe.config
+D:\CodeC\CoinApp\CoinApp\bin\Debug\CoinApp.exe
+D:\CodeC\CoinApp\CoinApp\bin\Debug\CoinApp.pdb
+D:\CodeC\CoinApp\CoinApp\obj\Debug\CoinApp.csproj.AssemblyReference.cache
+D:\CodeC\CoinApp\CoinApp\obj\Debug\CoinApp.csproj.SuggestedBindingRedirects.cache
+D:\CodeC\CoinApp\CoinApp\obj\Debug\MainWindow.g.cs
+D:\CodeC\CoinApp\CoinApp\obj\Debug\App.g.cs
+D:\CodeC\CoinApp\CoinApp\obj\Debug\CoinApp_MarkupCompile.cache
+D:\CodeC\CoinApp\CoinApp\obj\Debug\CoinApp_MarkupCompile.lref
+D:\CodeC\CoinApp\CoinApp\obj\Debug\MainWindow.baml
+D:\CodeC\CoinApp\CoinApp\obj\Debug\CoinApp.g.resources
+D:\CodeC\CoinApp\CoinApp\obj\Debug\CoinApp.Properties.Resources.resources
+D:\CodeC\CoinApp\CoinApp\obj\Debug\CoinApp.csproj.GenerateResource.cache
+D:\CodeC\CoinApp\CoinApp\obj\Debug\CoinApp.csproj.CoreCompileInputs.cache
+D:\CodeC\CoinApp\CoinApp\obj\Debug\CoinApp.exe
+D:\CodeC\CoinApp\CoinApp\obj\Debug\CoinApp.pdb
