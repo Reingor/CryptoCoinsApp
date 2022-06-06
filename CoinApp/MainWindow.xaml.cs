@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
+using System.Net.Http.Json;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -12,6 +14,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using CoinApp.Services;
+using CoinApp.Model;
 
 namespace CoinApp
 {
@@ -23,6 +27,7 @@ namespace CoinApp
         public MainWindow()
         {
             InitializeComponent();
+            MainFrame.Content = new Page1();
         }
     }
 }

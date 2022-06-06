@@ -1,0 +1,22 @@
+﻿<Window x:Class="CoinApp.MarketsWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CoinApp"
+        mc:Ignorable="d"
+        Title="MarketsWin" Height="450" Width="800">
+    <Grid Background="DarkOliveGreen">
+        <DataGrid x:Name="marketsGrid" AutoGenerateColumns="False" Loaded="LoadMarketsInfo">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Exchange Id" Binding="{Binding Path=ExchangeId}" Width="Auto" />
+                <DataGridTextColumn Header="Base Symbol" Binding="{Binding Path=BaseSymbol}" Width="Auto" />
+                <DataGridTextColumn Header="Base Id" Binding="{Binding Path=BaseId}" Width="Auto" />
+                <DataGridTextColumn Header="Quote Symbol" Binding="{Binding Path=QuoteSymbol}" Width="Auto" />
+                <DataGridTextColumn Header="Quote Id" Binding="{Binding Path=QuoteId}" Width="Auto" />
+                <DataGridTextColumn Header="Price Usd" Binding="{Binding Path=PriceUsd}" Width="Auto" />
+                <DataGridTextColumn Header="Volume Usd 24Hr" Binding="{Binding Path=VolumeUsd24Hr}" Width="Auto" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

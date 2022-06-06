@@ -1,4 +1,4 @@
-﻿namespace CoinsApp.Model
+﻿namespace CoinApp.Model
 {
 
     public class AssetsModel

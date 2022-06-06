@@ -1,11 +1,8 @@
-﻿namespace CoinsApp.Model
+﻿namespace CoinApp.Model
 {
-
-
-
     public class MarketsModel
     {
-        public InfoMarket[] Data { get; set; }
+        public InfoMarketModel[] Data { get; set; }
         public long Timestamp { get; set; }
     }
 
